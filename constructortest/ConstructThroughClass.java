@@ -10,9 +10,13 @@ public class ConstructThroughClass {
     }
 
     public static void main(String[] args) {
-        AnotherClass ac = new AnotherClass();
-        ConstructThroughClass ctc = new ConstructThroughClass(ac);
-        // System.out.println(ctc.getClass());
-        // System.out.println(ctc.ac.getClass());
+        //  기본 생성자 호출
+        ConstructorPractice constructorPractice = new ConstructorPractice();
+        //  매개변수 있는 생성자 호출
+        ConstructorPractice constructorPractice2 = new ConstructorPractice(1);
+        // AnotherClass ac = new AnotherClass();
+        // ConstructThroughClass ctc = new ConstructThroughClass(ac);
+        // // System.out.println(ctc.getClass());
+        // // System.out.println(ctc.ac.getClass());
     }
 }
