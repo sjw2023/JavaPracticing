@@ -1,4 +1,4 @@
-package Abstract.src;
+package Abstract.src.method01;
 
 public class Cat extends Animal{
     void bark(){
