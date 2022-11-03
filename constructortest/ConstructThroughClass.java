@@ -39,6 +39,9 @@ public class ConstructThroughClass {
         ConstructThroughClass ctc2 = new ConstructThroughClass(ac);
         //  내부 필드 객체 할당후 내부 필드 메소드 호출
         ctc2.doSomething(); //  Anotherclass.print()호출 성공.
+
+        ClassWithListOfClasses cwloc = cwloc(ac);
+        cwloc.print();
         
     }
     //매개변수 없는 생성자를 호출하여 객체를 리턴하는 메소드
