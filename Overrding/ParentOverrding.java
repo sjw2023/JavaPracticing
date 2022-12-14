@@ -1,10 +1,10 @@
-class ParentOverriding{
-    public Parent(){
-        System.out.println("ParentOverriding Constructor");
-    }
-
-    public voic printName( )
-    {
-        System.out.println(" ParentOverriding printName() ");
-    }
-}
+//class ParentOverriding{
+//    public Parent(){
+//        System.out.println("ParentOverriding Constructor");
+//    }
+//
+//    public voic printName( )
+//    {
+//        System.out.println(" ParentOverriding printName() ");
+//    }
+//}

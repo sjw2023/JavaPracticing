@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Constructor/Constructor.iml" filepath="$PROJECT_DIR$/Constructor/Constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Final/Final.iml" filepath="$PROJECT_DIR$/Final/Final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Instanceof/Instanceof.iml" filepath="$PROJECT_DIR$/Instanceof/Instanceof.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaPracticing.iml" filepath="$PROJECT_DIR$/JavaPracticing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SRP/SRP.iml" filepath="$PROJECT_DIR$/SRP/SRP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Super/Super.iml" filepath="$PROJECT_DIR$/Super/Super.iml" />
+    </modules>
+  </component>
+</project>
