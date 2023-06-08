@@ -1,5 +1,3 @@
-package Annotation;
-
 public class AnnotationUsingSample {
     @AnnotationExample(number = 0)
     public static void main( String args[] ){
